@@ -21,7 +21,7 @@
 <script>
 import { emojis_code } from './js/filename'
 export default {
-  name: 'EmojisPanelComponent',
+  name: 'WechatEmojiSimilar',
   props: {
     _path: {
       type: String,

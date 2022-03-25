@@ -8,7 +8,7 @@
           placement="bottom-end"
           trigger="click"
         >
-          <EmojisPanelComponent @handlerEmoji="handlerEmoji" />
+          <WechatEmojiSimilar @handlerEmoji="handlerEmoji" />
 
           <div
             slot="reference"
