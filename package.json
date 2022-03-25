@@ -1,6 +1,6 @@
 {
   "name": "wechat-emoji-similar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "基于vue写的微信emoji表情组件",
   "scripts": {
