@@ -41,14 +41,13 @@ methods: {
 ```
  * 静态资源引用不成功的时候
    > 需要copy我的静态资源文件到public文件下,并且命名为emoji_png
-   > [这是一个地址](https://github.com/gejunhao/wechat-emoji-similar.git).
 ```
+
+[这是一个地址](https://github.com/gejunhao/wechat-emoji-similar.git).
 
 ## project
 
-```
-  * [github](https://github.com/gejunhao/wechat-emoji-similar.git).
-```
+[github](https://github.com/gejunhao/wechat-emoji-similar.git).
 
 <!-- ### Customize configuration -->
 
