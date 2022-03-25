@@ -26,7 +26,7 @@ methods: {
     // 选择emoji表情的微信编码
     console.log(row.code)
     // 编译成需要显示的html 在vue中提供了 $parseText(code)的方法 无需额外引用 你可以将它放到你需要的地方
-    this.html = this.$parseText(code)
+    this.html = this.$parseText(this.value)
     console.log(this.$parseText(this.value))
     // 还有html转码为微信编码的方法,仅适用于组件 $parseText(code) 方法编译后的html
     console.log(this.$replaceEmoji(this.html))
